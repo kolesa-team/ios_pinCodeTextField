@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KKPinCodeTextField_Example' do
+  pod 'KKPinCodeTextField', :path => '../'
+
+  target 'KKPinCodeTextField_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

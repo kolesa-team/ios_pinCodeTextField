@@ -1,0 +1,6 @@
+framework module KKPinCodeTextField {
+  umbrella header "KKPinCodeTextField-umbrella.h"
+
+  export *
+  module * { export * }
+}
