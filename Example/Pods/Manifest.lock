@@ -1,0 +1,16 @@
+PODS:
+  - KKPinCodeTextField (0.1.0)
+
+DEPENDENCIES:
+  - KKPinCodeTextField (from `../`)
+
+EXTERNAL SOURCES:
+  KKPinCodeTextField:
+    :path: ../
+
+SPEC CHECKSUMS:
+  KKPinCodeTextField: 3e827aac4b64ff2d22589338b7c2837f665d83b2
+
+PODFILE CHECKSUM: 9378d4adcacf98a18fd312ec63340a56417115fb
+
+COCOAPODS: 1.4.0

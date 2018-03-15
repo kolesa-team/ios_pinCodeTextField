@@ -1,0 +1,22 @@
+{
+  "name": "KKPinCodeTextField",
+  "version": "0.1.0",
+  "summary": "TextField for verification codes",
+  "description": "A customisable verification code textField. Can be used for phone verification codes, passwords etc.",
+  "homepage": "https://stash.kolesa-team.org/projects/AMS/repos/ios_pincodetextfield/browse",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Author Name": "idryshev@kolesa.kz"
+  },
+  "source": {
+    "git": "ssh://git@stash.kolesa-team.org:7999/ams/ios_pincodetextfield.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KKPinCodeTextField/Classes/**/*"
+}
