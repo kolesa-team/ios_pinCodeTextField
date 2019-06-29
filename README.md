@@ -31,7 +31,7 @@ pod 'KKPinCodeTextField'
 
 1. Interface Builder:
 
-Add a `UITextView` in your *Interface Builder* and change the class of a textView from `UITextView` to `KKPinCodeTextView`. You can set the properties in the *Attributes Inspector* and see a live preview
+Add a `UITextField` in your *Interface Builder* and change the class of a textField from `UITextField` to `KKPinCodeTextField`. You can set the properties in the *Attributes Inspector* and see a live preview
 
 ![](Screenshots/usage.gif)
 
