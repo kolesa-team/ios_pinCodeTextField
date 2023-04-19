@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .target(
             name: "KKPinCodeTextField",
-            path: "KKPinCodeTextField"
+            path: "KKPinCodeTextField/Classes"
         )
     ]
 )
