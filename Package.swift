@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "PopNetworking",
+    name: "KKPinCodeTextField",
     platforms: [
         .iOS(.v13)
     ],
